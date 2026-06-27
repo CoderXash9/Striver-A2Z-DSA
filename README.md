@@ -124,7 +124,7 @@ GitHub:
 https://github.com/CoderXash9
 
 LinkedIn:
-(Add your LinkedIn profile)
+www.linkedin.com/in/ashwinicodes
 
 ---
 
