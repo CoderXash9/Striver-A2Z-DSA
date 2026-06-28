@@ -11,4 +11,3 @@ class Solution:
             else:
                 cols = cols - 1
         return False
-    
